@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator App
 
 A simple Bash script that calculates simple interest based on user input.
 
