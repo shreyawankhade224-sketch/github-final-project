@@ -9,7 +9,3 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 3. Make your changes and commit them with a clear message.
 4. Push the branch to your fork.
 5. Open a pull request describing what you changed and why.
-
-## Reporting bugs
-
-Open an issue and describe the problem, the steps to reproduce it, and what you expected to happen.

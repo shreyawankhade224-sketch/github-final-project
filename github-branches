@@ -1,0 +1,7 @@
+$ git branch -a -vv
+* bug-fix-revert                6eab26e [origin/bug-fix-revert] Revert "Fix typo in README"
+  bug-fix-typo                  3ca1ce7 Fix typo in README
+  main                          3ca1ce7 [origin/main: ahead 1] Fix typo in README
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 6eab26e Revert "Fix typo in README"
+  remotes/origin/main           ad95b0a Create close_pr.yml
